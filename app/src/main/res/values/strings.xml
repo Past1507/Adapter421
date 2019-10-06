@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Задачи</string>
+    <string name="new_task">Новая задача</string>
+    <string name="someText">someText</string>
+    <string name="input_title">Задача</string>
+    <string name="input_subtitle">Описание</string>
+    <string name="btn_add_task">Добавить</string>
+    <string-array name="list_task">
+        <item>Срочно</item>
+        <item>Не срочно</item>
+    </string-array>
+</resources>
