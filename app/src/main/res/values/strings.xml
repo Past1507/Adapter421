@@ -9,4 +9,5 @@
         <item>Срочно</item>
         <item>Не срочно</item>
     </string-array>
+    <string name="errorMessage">Введите задачу и описание</string>
 </resources>
